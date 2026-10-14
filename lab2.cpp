@@ -27,5 +27,9 @@ int main() {
         cout << ops << endl;
     }
     return 0;
+<<<<<<< HEAD
 }
 hello
+=======
+}
+>>>>>>> e729375784d93aab71506cb2279052aada3dcf0e
